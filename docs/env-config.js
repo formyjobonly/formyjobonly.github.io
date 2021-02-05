@@ -1,3 +1,3 @@
 window.__preorder_env__ = {
-  REACT_APP_API_HOST: "https://057e00891e43.ngrok.io/",
+  REACT_APP_API_HOST: "https://f78cd15dcd90.ngrok.io/",
 }
