@@ -1,2 +1,0 @@
-(this["webpackJsonpshopify-pre-order"]=this["webpackJsonpshopify-pre-order"]||[]).push([[11],{468:function(e,n,a){},554:function(e,n,a){"use strict";a.r(n);var t=a(137),r=a(0),s=a.n(r);a(468);n.default=function(){return s.a.createElement("div",{className:"appUninstall"},s.a.createElement(t.a,{size:"large"},"Uninstall"))}}}]);
-//# sourceMappingURL=11.38930e92.chunk.js.map
