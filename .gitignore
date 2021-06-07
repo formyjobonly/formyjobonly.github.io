@@ -1,2 +1,2 @@
 /docs/**/*.css.map
-/docs/**/*.js.map
+#/docs/**/*.js.map
